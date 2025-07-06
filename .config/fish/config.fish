@@ -50,4 +50,4 @@ function history
 	builtin history --show-time='%F %T '
 end
 
-alias ls='exa -al --color=always --group-directories-first --icons'
+alias ls='exa --color=always --group-directories-first --icons'
