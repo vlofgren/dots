@@ -1,0 +1,12 @@
+{
+  "layer": "top",
+  "position": "bottom",
+  "modules-right": ["hyprland/language", "clock"],
+  "modules-center": ["hyprland/workspaces"],
+  "hyprland/workspaces": {
+    "all-outputs": true
+  },
+  "hyprland/language": {
+    "format": "{short}"
+  }
+}

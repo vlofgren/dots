@@ -1,0 +1,41 @@
+* {
+  font-family: monospace;
+  font-size: 10pt;
+}
+
+#waybar {
+  background-color: #000;
+  padding-left: 1px;
+  padding-right: 1px;
+  margin-bottom: 4px;
+}
+
+#clock {
+  color: #0ff;
+  padding-right: 2px;
+}
+
+#language {
+  color: #088;
+  font-size: 14pt;
+  margin-right: 12px;
+  margin-top: -3px;
+}
+
+#window {
+  color: #0ff;
+  padding-left: 2px;
+}
+
+#workspaces button {
+  background-color: #222;
+  margin: 1px;
+  padding: 2px;
+  color: #ccc;
+}
+
+#workspaces button.active {
+  color: #088;
+  background-color: #000;
+  border: 1px solid #088;
+}

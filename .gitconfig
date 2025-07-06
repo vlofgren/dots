@@ -1,0 +1,5 @@
+[user]
+	name = Viktor Lofgren
+	email = vlofgren@marginalia.nu
+[core]
+	autocrlf = input
